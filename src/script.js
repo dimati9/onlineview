@@ -41,7 +41,7 @@ document.querySelector('#txt').onchange = function(){
         }
     });
 
-}
+};
 
 document.getElementById('excel').addEventListener('change', handleFileSelect, false);
 
